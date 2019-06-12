@@ -1,2 +1,2 @@
-# lunarscentscoin
-Lunarscentscoin, the coin made by NodeJS
+# LunarScentscoin
+LunarScentscoin, the coin made by NodeJS
